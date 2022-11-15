@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Yishak Abrham here,
 
 <!--
 **1xcodex/1xcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Full Stack Software Developer!
+- I'm currently enrolling at ALX SE program
+<a href= "link">linkage</a>
