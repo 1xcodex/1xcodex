@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Full Stack Software Developer!
 - I'm currently enrolling at ALX SE program
-<a href= "link">linkage</a>
+- - 🌱 Currently learning Python, CSS, JAVASCRIPT, Shell, DevOps
+- 📫 How to reach me: yishak.ab12@gmail.com
+
